@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Task 2</string>
+
+    <string name="trailer">https://www.youtube.com/watch?v=ELeMaP8EPAA</string>
+    <string name="header_image">Header image of Once upon in Hollywood</string>
+    <string name="poster">Poster of film</string>
+    <string name="film_title">Once upon in ... Hollywood</string>
+    <string name="released">Released:</string>
+    <string name="release_date">May 21,2019</string>
+    <string name="button_movie_trailer">MOVIE TRAILER</string>
+    <string name="overview">Overview:</string>
+    <string name="film_description">Once Upon a Time in Hollywood is a 2019 comedy-drama film written and directed by Quentin Tarantino. Produced by Columbia Pictures, Bona Film Group, Heyday Films, and Visiona Romantica and distributed by Sony Pictures Releasing, it is a co-production between the United States and the United Kingdom. The film stars Leonardo DiCaprio, Brad Pitt, Margot Robbie"</string>
+</resources>
